@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:StudentList xmlns="http://www.nju.edu.cn/schema" xmlns:ns2="http://jw.nju.edu.cn/schema">
+    <ns2:StudentE StudentNO="1">
+        <personInfo>
+            <id>121250049</id>
+            <name>花霞</name>
+            <sex>female</sex>
+            <age>20</age>
+            <Department>
+                <id>102</id>
+                <name>软件学院</name>
+                <type>院系</type>
+                <description>软件学院介绍</description>
+            </Department>
+        </personInfo>
+        <ns2:CourseList>
+            <ns2:Course CourseID="000001">
+                <ns2:CourseName>商务智能</ns2:CourseName>
+                <ns2:TeacherName>贝佳</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼101</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>2</ns2:NormalScore>
+                    <ns2:TestScore>3</ns2:TestScore>
+                    <ns2:FinalScore>5</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000002">
+                <ns2:CourseName>电子商务</ns2:CourseName>
+                <ns2:TeacherName>王金庆</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼102</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>14</ns2:NormalScore>
+                    <ns2:TestScore>12</ns2:TestScore>
+                    <ns2:FinalScore>26</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000003">
+                <ns2:CourseName>软件工程</ns2:CourseName>
+                <ns2:TeacherName>刘钦</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼103</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>20</ns2:NormalScore>
+                    <ns2:TestScore>42</ns2:TestScore>
+                    <ns2:FinalScore>62</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000004">
+                <ns2:CourseName>软件测试</ns2:CourseName>
+                <ns2:TeacherName>陈振宇</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼104</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>2</ns2:NormalScore>
+                    <ns2:TestScore>58</ns2:TestScore>
+                    <ns2:FinalScore>60</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000005">
+                <ns2:CourseName>人机交互</ns2:CourseName>
+                <ns2:TeacherName>冯桂焕</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼105</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>9</ns2:NormalScore>
+                    <ns2:TestScore>8</ns2:TestScore>
+                    <ns2:FinalScore>17</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+        </ns2:CourseList>
+    </ns2:StudentE>
+    <ns2:StudentE StudentNO="2">
+        <personInfo>
+            <id>121250001</id>
+            <name>姜晓明</name>
+            <sex>male</sex>
+            <age>20</age>
+            <Department>
+                <id>102</id>
+                <name>软件学院</name>
+                <type>院系</type>
+                <description>软件学院介绍</description>
+            </Department>
+        </personInfo>
+        <ns2:CourseList>
+            <ns2:Course CourseID="000001">
+                <ns2:CourseName>商务智能</ns2:CourseName>
+                <ns2:TeacherName>贝佳</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼101</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>13</ns2:NormalScore>
+                    <ns2:TestScore>27</ns2:TestScore>
+                    <ns2:FinalScore>40</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000002">
+                <ns2:CourseName>电子商务</ns2:CourseName>
+                <ns2:TeacherName>王金庆</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼102</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>27</ns2:NormalScore>
+                    <ns2:TestScore>16</ns2:TestScore>
+                    <ns2:FinalScore>43</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000003">
+                <ns2:CourseName>软件工程</ns2:CourseName>
+                <ns2:TeacherName>刘钦</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼103</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>33</ns2:NormalScore>
+                    <ns2:TestScore>59</ns2:TestScore>
+                    <ns2:FinalScore>92</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000004">
+                <ns2:CourseName>软件测试</ns2:CourseName>
+                <ns2:TeacherName>陈振宇</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼104</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>10</ns2:NormalScore>
+                    <ns2:TestScore>8</ns2:TestScore>
+                    <ns2:FinalScore>18</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000005">
+                <ns2:CourseName>人机交互</ns2:CourseName>
+                <ns2:TeacherName>冯桂焕</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼105</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>11</ns2:NormalScore>
+                    <ns2:TestScore>40</ns2:TestScore>
+                    <ns2:FinalScore>51</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+        </ns2:CourseList>
+    </ns2:StudentE>
+    <ns2:StudentE StudentNO="3">
+        <personInfo>
+            <id>121250002</id>
+            <name>郑轲阳</name>
+            <sex>male</sex>
+            <age>20</age>
+            <Department>
+                <id>102</id>
+                <name>软件学院</name>
+                <type>院系</type>
+                <description>软件学院介绍</description>
+            </Department>
+        </personInfo>
+        <ns2:CourseList>
+            <ns2:Course CourseID="000001">
+                <ns2:CourseName>商务智能</ns2:CourseName>
+                <ns2:TeacherName>贝佳</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼101</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>12</ns2:NormalScore>
+                    <ns2:TestScore>50</ns2:TestScore>
+                    <ns2:FinalScore>62</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000002">
+                <ns2:CourseName>电子商务</ns2:CourseName>
+                <ns2:TeacherName>王金庆</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼102</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>20</ns2:NormalScore>
+                    <ns2:TestScore>44</ns2:TestScore>
+                    <ns2:FinalScore>64</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000003">
+                <ns2:CourseName>软件工程</ns2:CourseName>
+                <ns2:TeacherName>刘钦</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼103</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>33</ns2:NormalScore>
+                    <ns2:TestScore>13</ns2:TestScore>
+                    <ns2:FinalScore>46</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000004">
+                <ns2:CourseName>软件测试</ns2:CourseName>
+                <ns2:TeacherName>陈振宇</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼104</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>19</ns2:NormalScore>
+                    <ns2:TestScore>23</ns2:TestScore>
+                    <ns2:FinalScore>42</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000005">
+                <ns2:CourseName>人机交互</ns2:CourseName>
+                <ns2:TeacherName>冯桂焕</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼105</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>26</ns2:NormalScore>
+                    <ns2:TestScore>24</ns2:TestScore>
+                    <ns2:FinalScore>50</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+        </ns2:CourseList>
+    </ns2:StudentE>
+    <ns2:StudentE StudentNO="4">
+        <personInfo>
+            <id>121250230</id>
+            <name>朱晨</name>
+            <sex>male</sex>
+            <age>20</age>
+            <Department>
+                <id>102</id>
+                <name>软件学院</name>
+                <type>院系</type>
+                <description>软件学院介绍</description>
+            </Department>
+        </personInfo>
+        <ns2:CourseList>
+            <ns2:Course CourseID="000001">
+                <ns2:CourseName>商务智能</ns2:CourseName>
+                <ns2:TeacherName>贝佳</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼101</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>14</ns2:NormalScore>
+                    <ns2:TestScore>2</ns2:TestScore>
+                    <ns2:FinalScore>16</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000002">
+                <ns2:CourseName>电子商务</ns2:CourseName>
+                <ns2:TeacherName>王金庆</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼102</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>1</ns2:NormalScore>
+                    <ns2:TestScore>14</ns2:TestScore>
+                    <ns2:FinalScore>15</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000003">
+                <ns2:CourseName>软件工程</ns2:CourseName>
+                <ns2:TeacherName>刘钦</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼103</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>0</ns2:NormalScore>
+                    <ns2:TestScore>15</ns2:TestScore>
+                    <ns2:FinalScore>15</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000004">
+                <ns2:CourseName>软件测试</ns2:CourseName>
+                <ns2:TeacherName>陈振宇</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼104</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>36</ns2:NormalScore>
+                    <ns2:TestScore>42</ns2:TestScore>
+                    <ns2:FinalScore>78</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+            <ns2:Course CourseID="000005">
+                <ns2:CourseName>人机交互</ns2:CourseName>
+                <ns2:TeacherName>冯桂焕</ns2:TeacherName>
+                <ns2:ClassRoom>教学楼105</ns2:ClassRoom>
+                <ns2:MyScore>
+                    <ns2:NormalScore>28</ns2:NormalScore>
+                    <ns2:TestScore>37</ns2:TestScore>
+                    <ns2:FinalScore>65</ns2:FinalScore>
+                </ns2:MyScore>
+            </ns2:Course>
+        </ns2:CourseList>
+    </ns2:StudentE>
+</ns2:StudentList>
